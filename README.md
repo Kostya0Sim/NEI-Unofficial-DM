@@ -1,2 +1,2 @@
-# NEI-Unofficial-DM
-The GUI retexture for NEI Unofficial
+# ![logo](https://github.com/Kostya0Sim/NEI-Unofficial-DM/blob/main/pack.png) **NEI Unofficial DM**  
+This __resource pack__ changes the appearance of the [<span style="color:#236fa1">NEI Unofficial</span>](https://www.curseforge.com/minecraft/mc-mods/notenoughitems-gtnh) mod's GUI to the <span style="color:#34495e">darker </span> and <span style="color:#ba372a">less saturated</span> <span style="color:#e03e2d">tones </span> like in a [Default Dark Mode](https://www.curseforge.com/minecraft/texture-packs/default-dark-mode) __resource pack__.
